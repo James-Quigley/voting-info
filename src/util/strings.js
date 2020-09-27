@@ -9,4 +9,13 @@ export const strings = new LocalizedStrings({
   },
 })
 
+export const translations = {
+  en: {
+    test: "Register to vote!",
+  },
+  es: {
+    test: "Registrarse para votar",
+  },
+}
+
 export default strings
